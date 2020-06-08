@@ -1,10 +1,13 @@
 import 'react-native';
 import React from 'react';
-import App from '../App';
+import Main from './components/MainComponent';
 
-// Note: test renderer must be required after react-native.
-import renderer from 'react-test-renderer';
 
-it('renders correctly', () => {
-  renderer.create(<App />);
-});
+
+export default class App extends React.Component {
+  render() {
+    return (
+      <Main />
+    );
+  }
+}
