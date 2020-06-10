@@ -3,7 +3,7 @@ import Menu from './MenuComponent';
 import Dishdetail from './DishdetailComponent';
 import { View, Platform } from 'react-native';
 import Home from './HomeComponent';
-import { createDrawerNavigator } from 'react-navigation';
+import { createDrawerNavigator } from 'react-navigation-stack';
 import {createStackNavigator} from 'react-navigation-stack';
 import { Icon } from 'react-native-elements';
 

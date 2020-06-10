@@ -1,5 +1,5 @@
-+ react-native-vector-icons@6.6.0
-removed 106 packages, updated 1 package and audited 1421 packages in 7.886s
++ @react-native-community/masked-view@0.1.10
+added 1 package from 1 contributor, removed 106 packages and audited 1420 packages in 7.414s
 
 19 packages are looking for funding
   run `npm fund` for details

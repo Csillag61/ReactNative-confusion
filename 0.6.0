@@ -1,5 +1,5 @@
-+ react-native-vector-icons@6.6.0
-removed 106 packages, updated 1 package and audited 1421 packages in 7.886s
++ react-native-safe-area-context@3.0.3
+added 1 package from 2 contributors, removed 106 packages and audited 1421 packages in 7.252s
 
 19 packages are looking for funding
   run `npm fund` for details
