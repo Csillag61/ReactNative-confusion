@@ -3,11 +3,9 @@ import Menu from './MenuComponent';
 import Dishdetail from './DishdetailComponent';
 import { View, Platform } from 'react-native';
 import Home from './HomeComponent';
-import { createStackNavigator, createDrawerNavigator } from 'react-navigation';
+import { createDrawerNavigator } from 'react-navigation';
+import {createStackNavigator} from 'react-navigation-stack';
 import { Icon } from 'react-native-elements';
-
-
-
 
 const MenuNavigator = createStackNavigator({
   Menu: { screen: Menu },
